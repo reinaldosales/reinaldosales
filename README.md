@@ -4,7 +4,7 @@
 
 - 📚 Currently just studying, but looking for something more exciting.
 - 💻 Studying HTML, CSS and JS.
-- 📫 Talk to me **httpsreinaldo@gmail.com
+- 📫 Talk to me **httpsreinaldo@gmail.com**
 - 🌐 Follow me [tec.naldo](https://www.instagram.com/tec.naldo/)
 
 <p align="center">
