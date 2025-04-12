@@ -25,5 +25,4 @@ Atuo como arquiteto de software em uma infratech de pagamentos eletrônicos, lid
 ---
 
 📬 **Onde me encontrar**  
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulink](https://www.linkedin.com/in/dreinaldosales))  
-[![Email](httpsreinaldo@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/seulink](https://www.linkedin.com/in/dreinaldosales)) | [Email](httpsreinaldo@gmail.com)
