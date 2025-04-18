@@ -1,6 +1,6 @@
 # 👨‍💻 Reinaldo Sales | Engenheiro de Software
 
-> Especialista em .NET, sistemas distribuídos e soluções escaláveis na nuvem ☁️
+> .NET, sistemas distribuídos e soluções escaláveis na nuvem ☁️
 
 ---
 
