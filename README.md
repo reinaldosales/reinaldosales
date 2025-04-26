@@ -20,7 +20,7 @@ Atuo como arquiteto de software em uma infratech de pagamentos eletrônicos, lid
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
 | [dotnet-webapi-bestpractices](https://github.com/reinaldosales/dotnet-webapi-bestpractices) | Minimal API com foco em demonstrar as melhores práticas para desenvolver uma| .NET, Clean Arch |
-| [nome-do-repo](https://github.com/reinaldosales/dotnet-unitofwork-mongodb) | Aplicação .NET para uma arquitetura limpa utilizando MongoDB, repository pattern e unit of work pattern | MongoDB, Clean Arch, .NET |
+| [dotnet-unitofwork-mongodb](https://github.com/reinaldosales/dotnet-unitofwork-mongodb) | Aplicação .NET para uma arquitetura limpa utilizando MongoDB, repository pattern e unit of work pattern | MongoDB, Clean Arch, .NET |
 
 ---
 
